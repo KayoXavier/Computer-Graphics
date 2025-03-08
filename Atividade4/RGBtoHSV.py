@@ -1,5 +1,5 @@
 import colorsys
-
+#transforma valores RGB para HSV atraves da biblioteca Colorsys
 def rgb_to_hsv():
     try:
         r = int(input("Digite o valor de R (0-255): "))
