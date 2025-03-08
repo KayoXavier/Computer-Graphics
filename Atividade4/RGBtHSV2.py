@@ -1,3 +1,4 @@
+#transforma valres RGB para HSV atraves das formulas de calul naturais da tranformação
 def rgb_to_hsv():
     try:
         r = int(input("Digite o valor de R (0-255): "))
