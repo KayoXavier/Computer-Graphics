@@ -1,0 +1,5 @@
+Kayo Xavier Nascimento Cavalcante Leite - 21.2.4095
+A atividade 6 está implementada no arquivo solarsystem.py e é necessária à instalação da bibliteca pyopengl(pip install pyopengl no windows ou sudo pip3 install pyopengl no linux)
+Junto do código, se encontra um video para visualização do resultado da aplicação.
+Para executar a aplicação, basta utilizar o comando a seguir estando no diretório da atividade:
+python solarsystem.py
