@@ -1,0 +1,7 @@
+Kayo Xavier Nascimento Cavalcante Leite - 21.2.4095
+A atividade 9 está implementada no arquivo mapeamento.py e é necessária à instalação da bibliteca pyopengl(pip install pyopengl no windows ou sudo pip3 install pyopengl no linux)
+Junto do código, se encontra um video para visualização do resultado da aplicação e uma imagem com nome "texture.bmp" que é a mapeada no cubo, caso ocorra algum problema, basta atualizar o caminho da imagem na linha 17 do arquivo mapeamento.py
+nela é possivel aumentar e diminuir a transparencia de dois objetos: um cubo e uma esfera atraves das letras q,a (para o eixo x) e w,s(para o eixo y)
+
+Para executar a aplicação, basta utilizar o comando a seguir estando no diretório da atividade:
+python mapeamento.py

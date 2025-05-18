@@ -1,0 +1,7 @@
+Kayo Xavier Nascimento Cavalcante Leite - 21.2.4095
+A atividade 8 está implementada no arquivo transparencia.py e é necessária à instalação da bibliteca pyopengl(pip install pyopengl no windows ou sudo pip3 install pyopengl no linux)
+Junto do código, se encontra um video para visualização do resultado da aplicação.
+nela é possivel aumentar e diminuir a transparencia de dois objetos: um cubo e uma esfera atraves das letras q,a (para o cubo) e w,s(para a esfera)
+
+Para executar a aplicação, basta utilizar o comando a seguir estando no diretório da atividade:
+python transparencia.py
